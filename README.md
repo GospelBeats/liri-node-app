@@ -26,15 +26,21 @@ Output: The system will display a list of all events and locations where the art
 Example 2: Run the "spotify-this-song" command
 node liri.js spotify-this-song <name of song>
 
+https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/spotify_this_results.PNG
+
 Output: The system will display a list of information associated with the song. It includes song name, url to preview the song, album, and artist name. It can result in multiple records. 
 
 Example 3: Run the "movie-this" command
 node liri.js movie-this <name of movie>
 
+https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/movie_this_results.PNG
+
 Output: The system will display information associated with the movie. This information includes the movie title, release year, rating, country of production, language, plot, and actors.
 
 Example 4: Run the "do-what-it-says" command
 node liri.js do-what-it-says
+
+https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/dothis_this_results.PNG
 
 Output: The system will read the text in the random.txt file, and perform the commands listed in the random.txt file.
 
