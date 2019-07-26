@@ -20,6 +20,7 @@ Example 1: Run the "concert-this" command
 node liri.js concert-this <name of artist or band>
 
 https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/concert_this_results.PNG
+/concert_this_results.PNG
 
 Output: The system will display a list of all events and locations where the artist or band will perform. It includes the name, country, region, city, date, and time. It can result in multiple records. 
 
