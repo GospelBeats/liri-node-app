@@ -16,7 +16,7 @@ Navigate to the folder that contains the liri.js file.
 
 Depending on the command you run, the output will vary.
 
-###### Example 1: Run the "concert-this" command
+###### **Example 1:** Run the "concert-this" command
 node liri.js concert-this <name of artist or band>
 
 ![Concert_This_Results](https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/concert_this_results.PNG)
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/concert_this_
 
 Output: The system will display a list of all events and locations where the artist or band will perform. It includes the name, country, region, city, date, and time. It can result in multiple records. 
 
-###### Example 2: Run the "spotify-this-song" command
+###### **Example 2:** Run the "spotify-this-song" command
 node liri.js spotify-this-song <name of song>
 
 ![Spotify_This_Results](https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/spotify_this_results.PNG)
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/spotify_this_
 
 Output: The system will display a list of information associated with the song. It includes song name, url to preview the song, album, and artist name. It can result in multiple records. 
 
-###### Example 3: Run the "movie-this" command
+###### **Example 3:** Run the "movie-this" command
 node liri.js movie-this <name of movie>
 
 ![Movie_This_Results](https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/movie_this_results.PNG)
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/movie_this_re
 
 Output: The system will display information associated with the movie. This information includes the movie title, release year, rating, country of production, language, plot, and actors.
 
-###### Example 4: Run the "do-what-it-says" command
+###### **Example 4:** Run the "do-what-it-says" command
 node liri.js do-what-it-says
 
 ![DoThis_This_Results](https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/dothis_this_results.PNG)
