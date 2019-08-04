@@ -1,4 +1,4 @@
-#liri-node-app
+# liri-node-app
 
 Creator: Cory Walker
 Created on: 7-25-2019
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/GospelBeats/liri-node-app/master/dothis_this_r
 
 Output: The system will read the text in the random.txt file, and perform the commands listed in the random.txt file.
 
-#TECHNOLOGIES USED
+# TECHNOLOGIES USED
 Javascript
 Nodejs
 Node packages:
